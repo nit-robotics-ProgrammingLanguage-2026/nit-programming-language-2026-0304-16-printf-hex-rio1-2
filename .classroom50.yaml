@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "nit-programming-language-2026"
+assignment: "0304-16-printf-hex"
+secret: "nmm2dsr0"
+owner:
+  username: "rio1-2"
+  id: 337919228
+  accepted_at: "2026-10-19T01:58:25Z"
+source:
+  owner: "nit-robotics-ProgrammingLanguage-2026"
+  owner_id: 326343566
+  repo: "template-task0304-printf-hex"
+  branch: "main"
